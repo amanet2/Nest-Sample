@@ -29,10 +29,15 @@ A simple API with the ability to:
   * Fix linting issues, stronger typing/usage of interfaces
 
 ## Project setup
-
+### Manually
 ```bash
 $ cd app/
 $ npm install
+```
+### Or use script:
+```bash
+cd scripts/
+run.bat
 ```
 
 ## Compile and run the project
