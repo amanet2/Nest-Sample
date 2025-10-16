@@ -31,9 +31,8 @@ A simple API with the ability to:
 ## Project setup
 
 ```bash
-$ npm i -g @nestjs/cli
-$ nest new app
-# select 'npm' as package manager
+$ cd app/
+$ npm install
 ```
 
 ## Compile and run the project
